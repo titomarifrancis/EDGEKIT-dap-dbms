@@ -1,5 +1,6 @@
 # EDGEKIT-dap-dbms
 
+[![Build Status](https://travis-ci.org/titomarifrancis/EDGEKIT-dap-dbms.svg?branch=master)](https://travis-ci.org/titomarifrancis/EDGEKIT-dap-dbms)
 [![Coverage Status](https://coveralls.io/repos/github/titomarifrancis/EDGEKIT-dap-dbms/badge.svg?branch=master)](https://coveralls.io/github/titomarifrancis/EDGEKIT-dap-dbms?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e9760afebb9a4969b56654cd1336c0c1)](https://www.codacy.com/app/titomarifrancis/EDGEKIT-dap-dbms?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=titomarifrancis/EDGEKIT-dap-dbms&amp;utm_campaign=Badge_Grade)
 [![BCH compliance](https://bettercodehub.com/edge/badge/titomarifrancis/EDGEKIT-dap-dbms?branch=master)](https://bettercodehub.com/)
