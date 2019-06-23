@@ -87,7 +87,7 @@ create table systemuser (
 	agencyregionmunicipalityid integer references agencyregionmunicipality(id) on delete restrict,
 	username varchar(20) not null,
 	password varchar(32) not null,
-	userlevelid integer references userlevel(id) on delete restrict,
+	userlevelid integer default 0 references userlevel(id) on delete restrict check(userlevelid < 3),
 	createdby integer default null references systemuser(id) on delete restrict,
 	creationdate timestamptz not null
 );
